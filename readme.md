@@ -17,21 +17,28 @@ This is a simple 2D space adventure game where you control a spaceship, avoid as
 2. Download the game files and ensure you have the following directory structure:
     ```
     src/
-        media/
+        music/
             background.mp3
             collision.wav
             bonus.wav
             mouse_click.mp3
-    img/
-        pozadi.png
-        spaceship.png
-        basteroid.png
-        planetka.png
-        hvezda.png
-        srdce.png
-    fonts/
-        ARCADEClassic.TTF
-        StarShield.ttf
+        img/
+            pozadi.png
+            spaceship.png
+            basteroid.png
+            planetka.png
+            hvezda.png
+            srdce.png
+        fonts/
+            ARCADEClassic.TTF
+            StarShield.ttf
+        asteroid.py
+        bonus.py
+        button.py
+        main.py
+        planet.py
+        settings.py
+        spaceship.py
     ```
 
 ## How to Play
